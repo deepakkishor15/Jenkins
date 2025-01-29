@@ -1,1 +1,2 @@
-echo "print('Hello, DevOps!')"
+echo "print('Hello, DevOps!')" | python3
+
